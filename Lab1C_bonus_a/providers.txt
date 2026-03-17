@@ -1,0 +1,26 @@
+
+Providers required by configuration:
+.
+├── provider[registry.terraform.io/hashicorp/aws-sns-topic]
+├── provider[registry.terraform.io/hashicorp/aws-nat-gateway]
+├── provider[registry.terraform.io/hashicorp/aws-route]
+├── provider[registry.terraform.io/hashicorp/aws-instance]
+├── provider[registry.terraform.io/hashicorp/aws-caller-identity]
+├── provider[registry.terraform.io/hashicorp/aws] ~> 5.24.0
+├── provider[registry.terraform.io/hashicorp/aws-security-group]
+├── provider[registry.terraform.io/hashicorp/aws-vpc-endpoint]
+├── provider[registry.terraform.io/hashicorp/aws-secretsmanager-secret-version]
+├── provider[registry.terraform.io/hashicorp/aws-sns-topic-subscription]
+├── provider[registry.terraform.io/hashicorp/aws-subnet]
+├── provider[registry.terraform.io/hashicorp/aws-route-table-association]
+├── provider[registry.terraform.io/hashicorp/aws-vpc]
+├── provider[registry.terraform.io/hashicorp/aws-cloudwatch-metric-alarm]
+├── provider[registry.terraform.io/hashicorp/aws-secretsmanager-secret]
+├── provider[registry.terraform.io/hashicorp/aws-region]
+├── provider[registry.terraform.io/hashicorp/aws-ssm-parameter]
+├── provider[registry.terraform.io/hashicorp/aws-route-table]
+├── provider[registry.terraform.io/hashicorp/aws-db-subnet-group]
+├── provider[registry.terraform.io/hashicorp/aws-eip]
+├── provider[registry.terraform.io/hashicorp/aws-cloudwatch-log-group]
+└── provider[registry.terraform.io/hashicorp/aws-internet-gateway]
+
